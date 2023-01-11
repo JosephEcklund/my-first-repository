@@ -1,5 +1,3 @@
 # Git Basics
 
-##  Table of Contents
-
-*  examplefile.txt
+hELLO WORLD my capslock was on.
